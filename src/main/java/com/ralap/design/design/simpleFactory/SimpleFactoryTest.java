@@ -4,6 +4,7 @@ package com.ralap.design.design.simpleFactory;
 import org.junit.jupiter.api.Test;
 
 /**
+ * 简单工厂
  * @author: ralap
  * @date: created at 2018/7/29 21:59
  */

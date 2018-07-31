@@ -1,6 +1,7 @@
 package com.ralap.design.design.strategy;
 
 /**
+ * 策略模式
  * @author: ralap
  * @date: created at 2018/7/23 17:04
  */
