@@ -14,7 +14,7 @@ public class Proxy implements GiveGife {
 
     @Override
     public void giveDolls() {
-            pursuit.giveDolls();
+        pursuit.giveDolls();
     }
 
     @Override

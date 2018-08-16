@@ -8,7 +8,7 @@ public class Trouser extends Finery {
 
     @Override
     public void show() {
-        System.out.println("长裤");
         super.show();
+        System.out.println("长裤");
     }
 }
