@@ -11,6 +11,9 @@ public class FactoryTest {
         Operation operation = iFactory.createOperation();
         double result = operation.getResult(1.1, 2.2);
         System.out.println("------------>" + result);
+
+
+
     }
 
 }
